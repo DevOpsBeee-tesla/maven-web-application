@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>PaypalPrmo-web-app</finalName>
+		<finalName>PaypalPromo-web-app</finalName>
 		
 		<plugins>
 			<plugin>
