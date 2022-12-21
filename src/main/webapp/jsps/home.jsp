@@ -11,8 +11,8 @@
 <body>
 <h1 align="center">Welcome to Landmark, We the PRIDE of AFRICA.</h1>
 <h1 align="center"> We develop and support quality Software Solutions to millions of clients across the globe.
-	           We are raising Black millionaires in IT and our goal as an organisation is to have raised a million millionaires by 2035.
-	We offer Trainings for DevOps with speciality in Linux and Cloud to equip IT Engineers for best performance in the field. Our success key is Jesus and He is Lord!.</h1>
+	           We are raising Black millionaires in IT and our goal as an organisation is to have raise a million millionaires by 2035.
+	We offer Trainings for DevOps with speciality in Linux and Cloud to equip IT Engineers for best performance in the field. Our advantage is Jesus and He is Lord!.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
