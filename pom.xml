@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.117.230.218:8181/mylandmarktech/repository/PaypalPromo-Releases/</url>
+	      <url>http://18.117.230.218:8181/mylandmarktech/repository/jpmchase-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.117.230.218:8181/mylandmarktech/repository/PaypalPromo_Snapshot/</url>
+	      <url>http://18.117.230.218:8181/mylandmarktech/repository/jpmchase-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
